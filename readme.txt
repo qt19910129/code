@@ -1,3 +1,5 @@
 hello world
 
-hello����
+hello����
+
+去你妹的乱码
